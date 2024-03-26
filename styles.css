@@ -1,0 +1,13 @@
+*{
+    color: yellow;
+    background-color: rgb(43, 163, 123);
+}
+.title{
+    text-align: center;
+}
+img{
+    display: block;
+    width: 80%;
+    margin: auto;
+    
+}
